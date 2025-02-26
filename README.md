@@ -26,6 +26,8 @@
 
 ## Design principles AWS in the cloud
 
+- perform perform
+
 - Perform operations as code
 - Make frequent, small
 - reversible changes
